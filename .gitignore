@@ -1,0 +1,3 @@
+# Build artifacts
+cvfs
+*.o
